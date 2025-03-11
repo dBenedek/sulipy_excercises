@@ -1,4 +1,4 @@
-# Python refresher excercises from [Sulipy](www.sulipy.hu)
+# Python refresher excercises from [Sulipy](https://sulipy.hu)
 
 1. Variables    
 2. If/else    
