@@ -11,7 +11,6 @@ class Tanar(Diak):
     def __init__(self, nev:str, osztaly:str, szak:str):
         super().__init__(nev, osztaly)
         self.szak = szak
-        self.osztaly = osztaly
     def tanar_kiir(self):
         print(f"Szia, a nevem {self.nev}, es {self.szak} szakos tanar vagyok.")
 
