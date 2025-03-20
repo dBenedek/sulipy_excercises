@@ -1,0 +1,26 @@
+Pop2023,Pop2022,City,Country,Continent,growthRate,rank
+13607800,13193035,Bangalore,India,Asia,0.0314,23
+21766214,21333332,Beijing,China,Asia,0.0203,8
+15490415,15369919,Buenos Aires,Argentina,South America,0.0078,16
+22183200,21750020,Cairo,Egypt,Africa,0.0199,7
+17340704,16874740,Chongqing,China,Asia,0.0276,11
+32941308,32065760,Delhi,India,Asia,0.0273,2
+23209616,22478116,Dhaka,Bangladesh,Asia,0.0325,4
+14284353,13964637,Guangzhou,China,Asia,0.0229,19
+15847768,15636243,Istanbul,Turkey,Asia,0.0135,15
+17236230,16839950,Karachi,Pakistan,Asia,0.0235,12
+16315534,15628085,Kinshasa,DR Congo,Africa,0.044,13
+15332793,15133888,Kolkata,India,Asia,0.0131,17
+15945912,15387639,Lagos,Nigeria,Africa,0.0363,14
+13979390,13541764,Lahore,Pakistan,Asia,0.0323,21
+14667089,14406059,Manila,Philippines,Asia,0.0181,18
+22281442,22085140,Mexico City,Mexico,North America,0.0089,6
+12680389,12640818,Moscow,Russia,Europe,0.0031,25
+21296516,20961472,Mumbai,India,Asia,0.016,9
+19013434,19059856,Osaka,Japan,Asia,-0.0024,10
+13727720,13634274,Rio de Janeiro,Brazil,South America,0.0069,22
+22619736,22429800,Sao Paulo,Brazil,South America,0.0085,5
+29210808,28516904,Shanghai,China,Asia,0.0243,3
+13072633,12831330,Shenzhen,China,Asia,0.0188,24
+14238643,14011828,Tianjin,China,Asia,0.0162,20
+37194104,37274000,Tokyo,Japan,Asia,-0.0021,1
