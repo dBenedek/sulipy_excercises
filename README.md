@@ -8,4 +8,5 @@
 6. Functions    
 7. Datatypes    
 8. Handling files    
-9. More algorithms
+9. More algorithms    
+10. Object oriented programming
